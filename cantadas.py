@@ -1,0 +1,3 @@
+import cantadaslib
+
+cantadaslib.main()
